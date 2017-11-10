@@ -1,0 +1,55 @@
+html{
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1{
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h3{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+h4{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+p{
+  font-size: 14px;
+}
+
+.skyBackground{
+  background-image: url("../../resources/images/background.png");
+}
+
+.skyBackground p a{
+  font-size: 18px;
+}
+
+.white{
+    color: white;
+}
+
+.footer{
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer p{
+  font-size: 11px;
+}
+
+.footer a{
+  font-size: 18px;
+  color: white;
+}
